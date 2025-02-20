@@ -1,0 +1,7 @@
+{
+"app.label.language" : "Language" ,
+"app.label.number" : "Number" ,
+"app.label.amount" : "Amount" ,
+"app.label.date": "Date",
+"app.languageSelector": "Select language"
+}
